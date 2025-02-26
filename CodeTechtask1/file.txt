@@ -1,2 +1,0 @@
-Hello, this is a sample text file.
-This file is used for Advanced Java file handling operations.
